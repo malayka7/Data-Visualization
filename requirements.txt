@@ -1,0 +1,6 @@
+# Dependencies for the Student Performance Analysis project
+
+pandas
+matplotlib
+seaborn
+
